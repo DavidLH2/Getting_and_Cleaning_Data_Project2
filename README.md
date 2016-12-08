@@ -1,11 +1,12 @@
 # Getting_and_Cleaning_Data_Project2
 Final peer-graded assignment for the getting andcleaning data Coursera course
+
 By: David Lennox-Hvenekilde
 
 Data used in this project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 Full description of data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-The following is from the data README
+The following is from the official data README
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
