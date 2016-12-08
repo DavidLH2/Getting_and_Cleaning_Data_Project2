@@ -7,9 +7,10 @@
 * Combines the data sets and assigns descriptive variable names
 * Groups the data by subject and activity and summaries the means of the measurements by these two groups.
 
-All transformations and manipulation of data is describes in the notes of script: `run_analysis.R`
+All transformations and manipulation of data is described in the notes of script: `run_analysis.R`
 
-The final dataset containing the means of the measurements summarised by subject and activity is stored in:`Sum_all_data_means`
+The final dataset containing the means of the measurements summarised by subject and activity is stored in:
+`Sum_all_data_means`
 
 ##Groups:
 * `subject` - The ID of the test subject
